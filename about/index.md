@@ -1,6 +1,7 @@
 ---
 layout: default
 label: about
+link: /about
 ---
 ## Who we are?
 

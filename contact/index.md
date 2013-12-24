@@ -1,11 +1,12 @@
 ---
 layout: default
 label: contact
+link: /contact
 ---
 
 {% include icon_right.html icon="drill.png" %}
 
-### Carty Property Maintenance & Locksmiths
+## Carty Property Maintenance & Locksmiths
 
 Call or email with your enquiry:
 

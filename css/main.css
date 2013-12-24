@@ -1,3 +1,7 @@
+.navbar-toggle .icon-bar {
+  background-color: #007a66;
+}
+
 .icon-right {
   display: inline-block;
   float: right;
@@ -43,6 +47,7 @@ h3,
 h4,
 h5,
 h6 {
+  padding-top: 10px;
   font-family: 'Lato', sans-serif;
   font-weight: 300;
   line-height: 1.4em;
@@ -184,39 +189,6 @@ textarea {
 }
 .scrollup:hover {
   opacity: 0.7;
-}
-/* ========== FLEXSLIDER OVERRIDES ========== */
-.flexslider {
-  background: transparent;
-  border: none;
-  -webkit-border-radius: 0;
-  border-radius: 0;
-  margin-bottom: 35px;
-  -webkit-box-shadow: none;
-  box-shadow: none;
-}
-.flex-direction-nav a {
-  width: 42px;
-  height: 42px;
-}
-.flex-direction-nav .flex-next {
-  background-position: 100% 0;
-  right: -42px;
-}
-.flex-direction-nav .flex-prev {
-  left: -42px;
-}
-.flexslider:hover .flex-next {
-  opacity: 0.3;
-  right: 0px;
-}
-.flexslider:hover .flex-prev {
-  opacity: 0.3;
-  left: 0px;
-}
-.flexslider:hover .flex-next:hover,
-.flexslider:hover .flex-prev:hover {
-  opacity: 0.8;
 }
 /* =========== HELPER CLASSES ========== */
 .spacing {
@@ -707,9 +679,6 @@ textarea {
     border-radius: 0;
     padding: 0;
   }
-  #showcase .flexslider {
-    margin-bottom: 49px;
-  }
   #clients img {
     margin: 0;
   }
@@ -719,8 +688,6 @@ textarea {
   #contact .contact-submit {
     float: none;
   }
-  .flex-direction-nav .flex-prev {opacity: 0.1; left: 0;}
-  .flex-direction-nav .flex-next {opacity: 0.1; right: 0;}
   .icon-right img {
     width: 100px;
   }

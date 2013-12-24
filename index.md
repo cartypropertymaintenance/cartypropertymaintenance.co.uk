@@ -1,10 +1,11 @@
 ---
 layout: default
 label: home
+link: /
 ---
 {% include icon_right.html icon="saw.png" %}
 
-# What we do?
+## What we do?
 
 #### Commercial & Domestic Property Maintenance including:
 - Painting & Decorating
