@@ -6,7 +6,7 @@ label: about
 
 <div class='inline-image'><img src='/images/matthew_carty.jpg' title="Matthew Carty" /></div>
 
-Matthew Carty has 30 years experience in the building trade, the previous 23 years of which was spent working in and around the London areas, carrying out Property Maintenance & Refurbishments, both planned and reactive, in a Manual Directors role.
+Matthew Carty has 30 years experience in the building trade, the previous 23 years of which was spent working in and around the London area. In the role of Manual Director, he managed Property Maintenance & Refurbishments, both planned and reactive for many satisfied clients.
 
 He also holds the following certificates:
 
