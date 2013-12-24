@@ -2,7 +2,6 @@
 layout: default
 label: home
 ---
-{% include icon_right.html icon="drill.png" %}
 {% include icon_right.html icon="saw.png" %}
 
 # What we do?

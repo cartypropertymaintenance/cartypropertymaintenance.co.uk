@@ -3,6 +3,9 @@
   float: right;
   margin; 10px 10px 10px 10px;
 }
+.icon-right img {
+  width: 200px;
+}
 .inline-image img { 
   width: 200px;
   padding-right: 20px;
@@ -254,9 +257,10 @@ textarea {
   background-color: #00a388;
 }
 .navbar .logo {
-  background: url('images/logo.png') 0 10px no-repeat;
-  height: 42px;
-  margin: 12px 0;
+  background: url('/images/logo.png') 10px 0 no-repeat;
+  height: 97px;
+  width: 247px;
+  text-indent: -100%;
 }
 .navbar navbar-brand {
   margin: 0;
@@ -279,6 +283,7 @@ textarea {
   text-align: center;
   background: transparent;
   padding: 0;
+  font-size: 18px;
   text-transform: uppercase;
   -webkit-transition: color 0.5s;
   -moz-transition: color 0.5s;
@@ -652,6 +657,9 @@ textarea {
   #newsletter .input-group {
     margin: 0 56px;
   }
+  .icon-right img {
+    width: 150px;
+  }
 }
 @media screen and (max-width: 768px) {
   body {
@@ -713,6 +721,9 @@ textarea {
   }
   .flex-direction-nav .flex-prev {opacity: 0.1; left: 0;}
   .flex-direction-nav .flex-next {opacity: 0.1; right: 0;}
+  .icon-right img {
+    width: 100px;
+  }
 }
 
 
