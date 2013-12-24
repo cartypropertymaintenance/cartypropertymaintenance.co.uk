@@ -1,7 +1,6 @@
 .navbar-toggle .icon-bar {
   background-color: #007a66;
 }
-
 .icon-right {
   display: inline-block;
   float: right;
@@ -21,9 +20,6 @@
   margin; 10px 10px 10px 10px;
 }
 
-/* text colors */
-/* BG colors */
-/* ========== GENERAL STYLES ========== */
 body {
   font-family: 'Lato', sans-serif;
   padding-top: 84px;
@@ -539,39 +535,6 @@ textarea {
   border: none;
   font-size: 1.35em;
 }
-/* ========== TWITTER FEED ========== */
-#feed {
-  background-color: #00a388;
-}
-#feed .tweets-icon {
-  text-align: center;
-  color: #ffffff;
-  font-size: 70px;
-  padding-bottom: 21px;
-}
-#feed .title-hr-dark {
-  margin-bottom: 35px;
-}
-#feed #tweets-feed {
-  color: white;
-}
-#feed #tweets-feed ul {
-  padding-left: 0;
-}
-#feed #tweets-feed ul li {
-  list-style: none;
-}
-#feed #tweets-feed ul li a {
-  color: #14ffd8;
-  -webkit-transition: color 0.4s;
-  -moz-transition: color 0.4s;
-  -o-transition: color 0.4s;
-  transition: color 0.4s;
-}
-#feed #tweets-feed ul li a:hover {
-  color: #000000;
-}
-/* ========== FOOTER =========== */
 #footer {
   padding: 17px 0 7px;
   background-color: #333333;
@@ -599,7 +562,6 @@ textarea {
 #footer .social-links ul li a:hover {
   color: #00a388;
 }
-/* ========== RESPONSIVE MEDIA QUERIES ========== */
 @media screen and (max-width: 992px) {
   #newsletter {
     padding-top: 56px;
