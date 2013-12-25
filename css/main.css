@@ -225,7 +225,7 @@ textarea {
   background-color: #00a388;
 }
 .navbar .logo {
-  background: url('/images/logo.png') 10px 0 no-repeat;
+  background: url('../images/logo.png') 10px 0 no-repeat;
   height: 97px;
   width: 247px;
   text-indent: -100%;
