@@ -19,5 +19,5 @@ link: /
 - Roofing
 - Certified Locksmith
 
-## Whether you have ongoing maintenace work or one big project, we can help - [get in touch](/contact)
+## Whether you have ongoing maintenace work or one big project, we can help - [get in touch]({{ site.baseurl }}/contact)
 

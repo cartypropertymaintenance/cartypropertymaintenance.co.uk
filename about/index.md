@@ -16,4 +16,4 @@ He also holds the following certificates:
 - Manual Handling Cert
 - Asbestos Awareness Cert
 
-If you need more details please [get in touch](/contact)
+If you need more details please [get in touch]({{ site.baseurl }}/contact)
