@@ -10,7 +10,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
   <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css">
-  <link rel="stylesheet" href="/css/main.css" id="colors"> 
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css" id="colors"> 
 
   <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,900,300italic' rel='stylesheet'>
   
@@ -36,9 +36,9 @@
           <ul class="nav navbar-nav navbar-right">
             {% for node in site.pages %}
               {% if page.url == node.url %}
-            <li class='active'><a href="{{ node.link }}">{{ node.label }}</a></li>
+              <li class='active'><a href="{{ site.baseurl }}{{ node.link }}">{{ node.label }}</a></li>
               {% else %}
-            <li><a href="{{ node.link }}">{{ node.label }}</a></li>
+              <li><a href="{{ site.baseurl }}{{ node.link }}">{{ node.label }}</a></li>
               {% endif %}
             {% endfor %}
           </ul><!-- end nav -->
